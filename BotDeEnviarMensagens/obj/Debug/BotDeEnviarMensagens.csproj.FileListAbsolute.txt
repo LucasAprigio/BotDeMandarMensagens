@@ -1,0 +1,11 @@
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\bin\Debug\BotDeEnviarMensagens.exe.config
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\bin\Debug\BotDeEnviarMensagens.exe
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\bin\Debug\BotDeEnviarMensagens.pdb
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\bin\Debug\WindowsInput.dll
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\bin\Debug\WindowsInput.xml
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\obj\Debug\BotDeEnviarMensagens.csproj.AssemblyReference.cache
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\obj\Debug\BotDeEnviarMensagens.csproj.SuggestedBindingRedirects.cache
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\obj\Debug\BotDeEnviarMensagens.csproj.CoreCompileInputs.cache
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\obj\Debug\BotDeEnviarMensagens.csproj.CopyComplete
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\obj\Debug\BotDeEnviarMensagens.exe
+D:\Bots\BotDeEnviarMensagens\BotDeEnviarMensagens\obj\Debug\BotDeEnviarMensagens.pdb
